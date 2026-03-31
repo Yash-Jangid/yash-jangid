@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=130&section=header&text=Yash%20Jangid&fontSize=44&fontAlignY=40&desc=Distributed%20Systems%20%7C%20NestJS%20%7C%20AWS%20%7C%20GenAI&descAlignY=68" />
 
 ### Software Engineer • Generative AI Engineer
-📍 Ajmer, Rajasthan (India) • 💼 Growloc • ⚙️ Event-driven Systems • 🤖 LangChain/LangSmith
+📍 India • 💼 Growloc • ⚙️ Event-driven Systems • 🤖 LangChain/LangSmith
 
 <a href="https://yash-jangid-portfolio.vercel.app/" target="_blank">
   <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
